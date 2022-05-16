@@ -1,56 +1,55 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Meals-Store-blueviolet)
 
-# Project Name
+# Meal Store
 
-> Description the project.
-
+> Meal-Store is webapp that fetch meals data from the [TheMealDB API](https://www.themealdb.com/api.php) to be displayed, filters and much more.
 
 ## Built With
 
 - Major languages
+  - HTML
+  - CSS
+  - JAVASCRIPT
 - Frameworks
+  - BOOTSTRAP
 - Technologies used
+  - WEBPACK
+  - JEST
+  - LINTERS
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]()
 
+## Install
+
+- [Git](https://git-scm.com/downloads)
+- [Node](https://nodejs.org/en/download/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
+- Clone the repository using `git clone git@github.com:joseph07-drack/meals-store.git`
+- `cd` into the project folder and run the following scripts
+- Run `npm install` to install all third party modules used in this project
+- Run `npm run start` to start the webpack watch mode
+- Run `npm run build` to make a production build
 
 ### Run tests
 
-### Deployment
-
-
+- Run the command `npm run test` to run the tests.
 
 ## Authors
 
-👤 **Author1**
+👤 **JODRACK**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@joseph07-drack](https://github.com/joseph07-drack)
+- LinkedIn: [jodrack](https://www.linkedin.com/in/joseph-buingo-ab2682225/)
 
-👤 **Author2**
+👤 **FRANKLINE**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@frank1738](https://github.com/frank1738)
+- Twitter: [@frankhiggins08](https://twitter.com/frankhiggins08)
+- LinkedIn: [@frankhiggins08](http://www.linkedin.com/in/frankline-osoro-b526ba18b)
 
 ## 🤝 Contributing
 

@@ -1,0 +1,1 @@
+(self.webpackChunkmeals_store=self.webpackChunkmeals_store||[]).push([[826],{138:()=>{}},e=>{e(e.s=138)}]);

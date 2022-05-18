@@ -19,7 +19,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link]()
+[Live Demo Link](https://joseph07-drack.github.io/meals-store/dist/)
 
 ## Install
 

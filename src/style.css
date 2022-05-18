@@ -36,3 +36,13 @@ li {
   font-size: 1.3rem;
   cursor: pointer;
 }
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  color: #fff;
+  background: #3f1700;
+  margin-top: 10px;
+}
